@@ -1,11 +1,4 @@
 """
-CSCI-720
-Homework Project
-Date: 12/2/2019
-Author: Abhishek Patil
-Author: Brij Shah
-
-File Name: Project_program.py
     This program uses a cost function to find the best path from source
     to destination using GPS data and coverts the path to kml for visualization.
 """
