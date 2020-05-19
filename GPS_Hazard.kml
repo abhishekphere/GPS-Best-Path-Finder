@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Style id="yellowPoly">
+<LineStyle>
+<color>Af00ffff</color>
+<width>6</width>
+</LineStyle>
+<PolyStyle>
+<color>7f00ff00</color>
+</PolyStyle>
+</Style>
+<Placemark><styleUrl>#yellowPoly</styleUrl>
+<LineString>
+<Description>Speed in MPH, not altitude.</Description>
+<extrude>1</extrude>
+<tesselate>1</tesselate>
+<altitudeMode>absolute</altitudeMode>
+</LineString>
+</Placemark>
+<Placemark>
+<description>Red PIN for A Stop</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff0000ff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.43765,43.13862833333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Red PIN for A Stop</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff0000ff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.46875333333334,43.13140833333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Red PIN for A Stop</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff0000ff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.632765,43.09403666666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Red PIN for A Stop</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff0000ff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/kml/paddle/1.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.68123666666666,43.08585166666667,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Green PIN for A Left Turn</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff00ffff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.43774499999999,43.138405,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Green PIN for A Left Turn</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff00ffff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.43773,43.13838333333333,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Green PIN for A Left Turn</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff00ffff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.43772833333334,43.138378333333335,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Green PIN for A Left Turn</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff00ffff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.43775000000001,43.13833666666666,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Green PIN for A Left Turn</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff00ffff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.43769,43.138626666666674,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Green PIN for A Left Turn</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff00ffff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.43936166666667,43.140980000000006,0</coordinates>
+</Point>
+</Placemark>
+<Placemark>
+<description>Green PIN for A Left Turn</description>
+<Style id="normalPlacemark">
+<IconStyle>
+<color>ff00ffff</color>
+<Icon>
+<href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
+</Icon>
+</IconStyle>
+</Style>
+<Point>
+<coordinates>-77.65369666666668,43.092913333333335,0</coordinates>
+</Point>
+</Placemark>
+</Document>
+</kml>
